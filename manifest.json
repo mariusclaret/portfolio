@@ -1,0 +1,23 @@
+{
+    "lang": "en",
+    "name": "Marius Claret",
+    "short_name": "Marius Claret",
+    "description": "I am a young product designer and fullstack developer based in Berlin. I build intuitive digital products for the web and native platforms. As a designer I pursue ideas that put people first by listening and spotting desires. As a developer I care deeply about the web's future and technologies that allow smooth, powerful and healthy experiences.",
+    "categories": [
+        "business",
+        "magazines"
+    ],
+    "start_url": "/",
+    "scope": "/",
+    "theme_color": "#181818",
+    "background_color": "#181818",
+    "display": "browser",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/photo.png",
+            "sizes": "400x400",
+            "type": "image/png"
+        }
+    ]
+}
